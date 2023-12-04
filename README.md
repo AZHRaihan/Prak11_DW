@@ -1,6 +1,6 @@
 # Mohammad Raihan Azhar - Prak. Desain Web 11
 
-## Deskripsi kode
+## Deskripsi
 Mengembangkan keterampilan dalam membuat galeri foto responsif menggunakan sistem grid Bootstrap, memastikan tampilan yang sesuai dengan berbagai ukuran layar web browser.
 
 ## Hasil Screenshot
